@@ -69,8 +69,4 @@ The analysis includes the following visualizations:
 - **Bollinger Bands:** Plots price, upper and lower bands to evaluate potential price breakouts.
 - **Cumulative Return:** Displays cumulative stock performance over time.
 
-## Future Work
 
-- Add more technical indicators such as the Relative Strength Index (RSI) and MACD.
-- Integrate machine learning to predict future stock prices based on historical data.
-- Automate stock data retrieval and analysis with scheduled updates.
